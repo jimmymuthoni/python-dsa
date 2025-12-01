@@ -1,5 +1,5 @@
 Given two string s and t, return true if t is an anagram of s, and false otherwise.
-two strings are anagram if every character in one string is present in another
+Two strings are anagram if every character in one string is present in another
 
 ```
 Example 1:
